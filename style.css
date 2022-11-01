@@ -1,0 +1,114 @@
+
+.banner img{
+    width: 1845px;
+    height: 500px;
+    z-index: -1;
+}
+
+.banner .bannerletra{
+    font-size: 20px;
+    font-family: 'Arapey';
+    text-align: center;
+}
+
+.rosa{
+    background: #FFB1BB;
+    padding: 1px;
+    display: flex;
+    height: 450px;
+    justify-content: space-evenly;
+
+}
+
+.rosa img{
+    width: 90%;
+    height: 40vh;
+    margin-top: 30px;
+}
+
+.rosa .letras{
+    margin-top: 20px;
+    font-size: 30px;
+    align-items: center;
+    font-family: 'Gruppo';
+    text-align: center;
+}
+
+.tudo{
+    align-items: center;
+    text-align: center;
+}
+
+.imag{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.imag img{
+    width: 9%;
+}
+
+.lima img{
+    width: 60%;
+    margin-right: 10px;
+
+}
+
+.letratudo{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 47px;
+}
+
+.letra{
+    font-size: 100px;
+    font-family: 'Arapey';
+    background-color: #DFFDFF;
+    width: 13%;
+}
+
+.espec{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 45px;
+}
+
+.letra2{
+    font-size: 20px;
+    text-align: center;
+    background-color: #DFFDFF;
+    width: 13%;
+}
+
+.rodape{
+    margin: 30px;
+    background-color: #C1AE9C;
+    height: 250px;
+}
+
+.rodape img{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-around;
+}
+.rodape2 img{
+    width: 20%;
+    height: 5vh;
+}
+
+.rodape2 ul li{
+    list-style: none;
+    align-items: center;
+}
+
+.rodape2-texto{
+    font-size: 200%;
+    display: flex;
+    align-items: center;
+}

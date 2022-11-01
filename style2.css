@@ -1,0 +1,64 @@
+.body{
+    font-family: url('https://fonts.googleapis.com/css2? family= Arapey:ital@0;1 & família= Grupo &family= Poppins:wght@100;200 & display=swap');
+}
+
+.inicio img{
+    width: 100px;
+    height: 100px; 
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.inicio{
+    display: flex;
+    margin-left: 90px;
+}
+
+.letras{
+    font-size: 30px;
+    margin-left: 200px;
+    margin-top: 3%;
+    font-family: 'Gruppo';
+}
+
+.produto{
+    display: flex;
+    justify-content: space-around;
+}
+
+.produto img{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.letras2{
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    margin-top: 30%;
+    font-family: 'Poppins';
+}
+
+.letras3{
+    font-size: 35px;
+    margin-top: 20%;
+    align-items: center;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+.letrinhas{
+    display: block;
+}
+
+.rodape{
+    margin: 30px;
+    background-color: #C1AE9C;
+    height: 235px;
+}
+
+.rodape img{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+}
